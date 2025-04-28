@@ -17,8 +17,7 @@ https://mp.weixin.qq.com/s/2NbQKlfhekmBwm9D_iaKxQ
 https://mp.weixin.qq.com/s/Oq8wRsZdL6XJRDed0m2Fbw  
 https://mp.weixin.qq.com/s/Er39W7Oe0ye1KafTEDWsnw  
 https://mp.weixin.qq.com/s/iKkfZ-TipR71iEXJXbFYxg  
-https://mp.weixin.qq.com/s/ZNeMG4hWGo6vntNfbFWydg  
-https://mp.weixin.qq.com/s/riZHQU49RUKcgzJAeDl4mw  
+https://mp.weixin.qq.com/s/ZNeMG4hWGo6vntNfbFWydg   
 [framepack] https://mp.weixin.qq.com/s/VjZGKiiGWjvTRMSRLgGOLQ   
 https://mp.weixin.qq.com/s/gRqyNlF8BTkh9f36UlW3ew  
 https://arxiv.org/abs/2502.06155  
