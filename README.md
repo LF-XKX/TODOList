@@ -39,4 +39,5 @@ https://mp.weixin.qq.com/s/mLRMHXq51HDBN_Vaylm_mw
 
 2025-04-29  
 https://mp.weixin.qq.com/s/eUrV5XgxuhimSTGPOfwntw
-[trae] https://www.trae.ai/
+[trae] https://www.trae.ai/  
+[暴躁教授] https://github.com/LYiHub/mad-professor-public  
