@@ -38,4 +38,5 @@ https://mp.weixin.qq.com/s/zfavrP43dFKmB-vLosKdjQ
 https://mp.weixin.qq.com/s/mLRMHXq51HDBN_Vaylm_mw  
 
 2025-04-29  
-https://mp.weixin.qq.com/s/eUrV5XgxuhimSTGPOfwntw  
+https://mp.weixin.qq.com/s/eUrV5XgxuhimSTGPOfwntw
+[trae] https://www.trae.ai/
