@@ -42,3 +42,6 @@ https://mp.weixin.qq.com/s/eUrV5XgxuhimSTGPOfwntw
 [trae] https://www.trae.ai/  
 [暴躁教授] https://github.com/LYiHub/mad-professor-public  
 [Qwen3] https://mp.weixin.qq.com/s/t-3O-1lnSronDuLkcQ97aQ  
+
+2025-04-30  
+[DBIM]https://mp.weixin.qq.com/s/X6jPP5ewbHzsbD_iWEEK7w  
