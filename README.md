@@ -73,4 +73,5 @@ https://mp.weixin.qq.com/s/6FU2Qp7YcITaTY9S6ZRL2A
 vidu q1  
 framepack  
 far frame autoregressive model for both short  
-magi-1
+magi-1  
+pixflow
