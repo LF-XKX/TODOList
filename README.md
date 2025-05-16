@@ -70,3 +70,6 @@ https://mp.weixin.qq.com/s/oXZ6_kDX5r_twaYRSx1V0A
 https://mp.weixin.qq.com/s/ApaLjelYn1os3ktMPJvcpQ  
 https://mp.weixin.qq.com/s/fbgiYCmsXPel9yoHNcrigw  
 https://mp.weixin.qq.com/s/6FU2Qp7YcITaTY9S6ZRL2A  
+vidu q1  
+framepack  
+far frame autoregressive model for both short
