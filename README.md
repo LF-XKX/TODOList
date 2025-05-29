@@ -132,3 +132,6 @@ https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=51254128422
 https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=4845288114814258&group_id=142181451122&inviter_id=111855222251512&inviter_sid=64b9boe9e1  
 华为开源周  
 https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=5125415242581884&group_id=142181451122&inviter_id=111855222251512&inviter_sid=64b9boe9e1  
+
+2025-05-29  
+https://mp.weixin.qq.com/s/mDSMsZjDuSl5qcWckFSXrA  
