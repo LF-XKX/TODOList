@@ -137,3 +137,6 @@ https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=51254152425
 https://mp.weixin.qq.com/s/mDSMsZjDuSl5qcWckFSXrA  
 skyreels-v2  
 magi-1  
+
+2025-05-30  
+https://mp.weixin.qq.com/s/qdQdSTd_q9Y7_te_2gOfvA  
