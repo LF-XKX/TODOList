@@ -142,3 +142,4 @@ magi-1
 https://mp.weixin.qq.com/s/qdQdSTd_q9Y7_te_2gOfvA  
 https://mp.weixin.qq.com/s/ofp_KxJ93PFTK3aOwd1jqA  
 https://mp.weixin.qq.com/s/S6vigmXVVyaRit0wVAiamQ  
+flux-kontext  
